@@ -5,3 +5,7 @@ After extracting the strokes from stroke recovery, prep the styles by running `p
 ## Style Transfer
 
 Run `transfer.ipynb` to generate sentences for all the styles that are present in styles/ folder.
+
+----------------------------
+
+(This code has been built on the existing repository : https://github.com/sjvasquez/handwriting-synthesis, which is an implementation of the research paper : https://arxiv.org/abs/1308.0850)

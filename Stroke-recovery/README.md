@@ -26,3 +26,8 @@ python stroke_recovery_offline.py
 ## Stroke Transformation
 
 After extracting the .npy file run `transform_strokes.ipynb` to create the corresponding files to be used in Approaches 1 and 2.
+
+
+----------------------------
+
+(This code has been built on the existing repository : https://github.com/Tahlor/simple_hwr, which is an implementation of the research paper : https://arxiv.org/abs/2105.11559)
