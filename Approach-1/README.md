@@ -1,3 +1,10 @@
+## External Repository
+Clone the Simple HWR repositor, which is a close implementation of the paper https://arxiv.org/abs/1308.0850
+```
+git clone https://github.com/sjvasquez/handwriting-synthesis .
+```
+
+
 ## Data Preparation
 
 After extracting the strokes from stroke recovery, prep the styles by running `prepare_styles.ipynb`

@@ -2,7 +2,11 @@
 Create the environment using environment.yaml
 Create the environment defined in `environment.ya
 
-
+## External Repository
+Clone the Simple HWR repositor, which is a close implementation of the paper https://arxiv.org/abs/2105.11559
+```
+git clone https://github.com/Tahlor/simple_hwr .
+```
 ## Datasets
 
 Download IAM Dataset. You would have to create an IAM account. Download the offline lines dataset and ground truths.
